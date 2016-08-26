@@ -14,10 +14,10 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Research
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Craig French's Research
 
 # --- Navigation bar options --- #
 
@@ -28,33 +28,25 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  CV: "http://deanattali.com"
+  Talks: "http://deanattali.com/aboutme/#feed-meeee"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
+  name: Craig French
+  email: "craig@craigfrench.co.uk"
+  twitter: craigafrench
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: false
   stackoverflow: false
 
