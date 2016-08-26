@@ -28,8 +28,8 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  CV: "http://deanattali.com"
-  Talks: "http://deanattali.com/aboutme/#feed-meeee"
+  CV: "http://craigafrench.github.io/assets/CraigFrenchCV.pdf"
+  Talks: "http://craigafrench.github.io/talks"
 
 # --- Footer options --- #
 
