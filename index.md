@@ -5,12 +5,14 @@ title: Research
 
 ### Peer Reviewed Publications
 
-1. **The Invalidity of the Argument from Illusion**. *American Philosophical Quarterly*. Forthcoming. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)).
+1. The Invalidity of the Argument from Illusion. Forthcoming. *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)).
 
-1. [The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/). In *The Stanford Encyclopedia of Philosophy* (with [Tim Crane](http://www.timcrane.com/)). 2015.
+2. [Idiosyncratic Perception](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Idiosycratic%20Perception.pdf). 2016. *The Philosophical Quarterly*.
 
-2. [Idiosyncratic Perception](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Idiosycratic%20Perception.pdf). In *The Philosophical Quarterly*. Forthcoming.
 
+1. [The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/). 2015. *The Stanford Encyclopedia of Philosophy*. (With [Tim Crane](http://www.timcrane.com/)).
+
+2. 
 3. [On the Particularity of Experience](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20and%20Gomes%2C%20A%20-%202015%20-%20On%20the%20Particularity%20of%20Experience.pdf). In *Philosophical Studies* (with [Anil Gomes](http://www.anilgomes.com/)). Forthcoming.
 
 4. [The Formulation of Epistemological Disjunctivism](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202014%20-%20The%20Formulation%20of%20Epistemological%20Disjunctivism.pdf). In *Philosophy and Phenomenological Research*. Forthcoming.
