@@ -8,16 +8,16 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://craigafrench.github.io/research"
-baseurl: "/research"
+url: "http://craigafrench.github.io/talks"
+baseurl: "/talks"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Research
+title: Talks
 
 # Short description of your site
-description: Craig French's Research
+description: Craig French's Talks
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: "http://craigafrench.github.io/"
   CV: "http://craigafrench.github.io/assets/CraigFrenchCV.pdf"
-  Talks: "http://craigafrench.github.io/talks"
+  Research: "http://craigafrench.github.io/research"
 
 # --- Footer options --- #
 
@@ -60,7 +60,8 @@ url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-j
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
+google_analytics: 	UA-66399450-1
+google_verify: 		UA-66399450-1
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
