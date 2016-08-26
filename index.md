@@ -27,7 +27,7 @@ title: Research
 
 10. [Perceptual Experience and Seeing that P](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202013%20-%20Perceptual%20Experience%20and%20Seeing%20that%20P.pdf). 2013. In *Synthese*.
 
-11. [Does Propositional Seeing Entail Propositional Knowledge?](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202012%20-%20Does%20Propositional%20Seeing%20Entail%20Propositional%20Knowledge.pdf). 2012. In *Theoria*. 2012.
+11. [Does Propositional Seeing Entail Propositional Knowledge?](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202012%20-%20Does%20Propositional%20Seeing%20Entail%20Propositional%20Knowledge.pdf). 2012. In *Theoria*.
 
 ### Reviews and Other Pieces
 
