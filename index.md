@@ -19,7 +19,7 @@ title: Research
 
 7. [The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/). 2015. In *The Stanford Encyclopedia of Philosophy*. (With [Tim Crane](http://www.timcrane.com/)).
 
-7. [The Problem of Illusion for Naive Realism](https://www.dropbox.com/s/x383ueo23lprzna/French%2C%20C%20-%202015%20-%20The%20Problem%20of%20Illusion%20for%20Naive%20Realism.pdf?dl=0). 2015. On [the Brains Blog](http://philosophyofbrains.com/2016/01/11/symposium-on-boyd-millars-naive-realism-and-illusion.aspx)
+7. [The Problem of Illusion for Naive Realism](https://www.dropbox.com/s/x383ueo23lprzna/French%2C%20C%20-%202015%20-%20The%20Problem%20of%20Illusion%20for%20Naive%20Realism.pdf?dl=0). 2015. On [the Brains Blog](http://philosophyofbrains.com/2016/01/11/symposium-on-boyd-millars-naive-realism-and-illusion.aspx).
 
 8. [Knowledge and Ways of Knowing](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202014%20-%20Knowledge%20and%20Ways%20of%20Knowing.pdf). 2014. In *The Proceedings of the Aristotelian Society*.
 
@@ -31,18 +31,16 @@ title: Research
 
 ### Reviews and Other Pieces
 
+2. [Review of The Oxford Handbook to the Philosophy of Perception](http://ndpr.nd.edu/news/64969-the-oxford-handbook-of-philosophy-of-perception/), edited by Mohan Matthen. 2016. In *Notre Dame Philosophical Reviews*.
 
+3. [Pathology Based Philosophy of Mind](http://icog.group.shef.ac.uk/pathology-based-philosophy-of-mind/). 2015. On the [iCog Blog](http://icog.group.shef.ac.uk/blog/).
 
-2. Review of The Oxford Handbook to the Philosophy of Perception, edited by Mohan Matthen. In *Notre Dame Philosophical Reviews*. Forthcoming.
+4. [Review of Objectivity and the Parochial](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Objectivity%20and%20the%20Parochial.pdf), by Charles Travis. 2015. In *Mind*.
 
-3. [Pathology Based Philosophy of Mind](http://icog.group.shef.ac.uk/pathology-based-philosophy-of-mind/), for the iCog Blog
+5. [Review of Berkeley's Puzzle](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Berkeley%27s%20Puzzle.pdf), by John Campbell and Quassim Cassam, and The Innocent Eye, by Nico Orlandi. 2015. In *The Times Literary Supplement*. 
 
-4. [Review of Objectivity and the Parochial](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Objectivity%20and%20the%20Parochial.pdf), by Charles Travis. In *Mind*, 2015.
-
-5. [Review of Berkeley's Puzzle](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Berkeley%27s%20Puzzle.pdf), by John Campbell and Quassim Cassam, and The Innocent Eye, by Nico Orlandi. In *The Times Literary Supplement*, 2015. 
-
-6. [Review of Hallucination: Philosophy and Psychology](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Hallucination.pdf), edited by Fiona Macpherson and Dimitris Platchias. In *Analysis*, 2015.
+6. [Review of Hallucination: Philosophy and Psychology](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Review%20of%20Hallucination.pdf), edited by Fiona Macpherson and Dimitris Platchias. 2015. In *Analysis*.
 
 ### Other
 
-1. [Visual Perception as a Means of Knowing](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202012%20-%20Visual%20Perception%20as%20a%20Means%20of%20Knowing%20%28PhD%29.pdf). PhD Thesis, University College London, 2012.
+1. [Visual Perception as a Means of Knowing](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202012%20-%20Visual%20Perception%20as%20a%20Means%20of%20Knowing%20%28PhD%29.pdf). 2012. PhD Thesis, University College London.
