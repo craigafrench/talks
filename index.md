@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Craig French's Research Page
+subtitle:
 ---
 
 ### Peer Reviewed Publications
