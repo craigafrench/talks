@@ -5,6 +5,8 @@ title: Research
 
 ### Peer Reviewed Publications
 
+1. **The Invalidity of the Argument from Illusion**. *American Philosophical Quarterly*. Forthcoming. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)).
+
 1. [The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/). In *The Stanford Encyclopedia of Philosophy* (with [Tim Crane](http://www.timcrane.com/)). 2015.
 
 2. [Idiosyncratic Perception](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%202015%20-%20Idiosycratic%20Perception.pdf). In *The Philosophical Quarterly*. Forthcoming.
