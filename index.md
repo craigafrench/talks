@@ -4,19 +4,31 @@ title: Talks
 subtitle: Recent and Upcoming Talks
 ---
 
-* October 2016 - Austerity and Illusion, BPPA Event on Naive Realism, University of Warwick
+* February 2018 - What is it *really* like to be a bat? The Forum, LSE
 
-* September 2016 - Austerity and Illusion, SPIN Workshop, University of Durham
+* February 2018 - Naive Realism & Diaphaneity [The Aristotelian Society](https://www.aristoteliansociety.org.uk/the-proceedings/the-2017-18-programme/)
+
+* October 2017 - Ordinary and Scientific Conceptions of Perception: Resolving a Conflict Problem, Perception and the Brain, St Hilda's College, Oxford
+
+* September 2017 - How Naive Realism Can Explain Both the Particularity and the Generality of Experience, Particularity of Perception Workshop, University of Glasgow
+
+* May 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon, Royal Institute of Philosophy Seminar, University of Nottingham
+
+* April 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon, Workshop of Sense-Data, University of Glasgow
+
+* October 2016 - Naive Realism, Standpoint, and Diaphaneity [BPPA Event on Naive Realism](http://philevents.org/event/show/22938), University of Warwick
+
+* September 2016 - Austerity and Illusion, [SPIN Workshop](https://spinperceptionnetwork.wordpress.com/2016/08/25/durham-workshop-on-hallucinations-illusions-and-delusions-schedule-and-registration/), University of Durham
 
 * June 2016 - Epistemological Disjunctivism and the Representational Commitment, Perception and Evidence Workshop, University of Luxembourg
 
-* June 2016 - Relationalism and Structural Features of Experience, Workshop on Matt Soteriou's *The Mind's Construction, University of Manchester
+* June 2016 - Relationalism and Structural Features of Experience, [Workshop on Matt Soteriou's *The Mind's Construction*](http://events.manchester.ac.uk/event/event:a18-inkq2lip-d1dwaw), University of Manchester
 
-* April 2016 - Balint's Syndrome, Object Seeing and Spatial Perception, Philosophy of Science, Inter-University Centre, Dubrovnik
+* April 2016 - Balint's Syndrome, Object Seeing and Spatial Perception, [Philosophy of Science](http://www.iuc.hr/conference-details.php?id=167), Inter-University Centre, Dubrovnik
 
-* December 2015 - Balint's Syndrome and the Structure of Experience, Research Seminar, University of Durham
+* December 2015 - Balint's Syndrome and the Structure of Experience, [Research Seminar](https://www.dur.ac.uk/philosophy/research_seminars_lectures_forthcoming/?itemno=25327), University of Durham
 
-* November 2015 - On the Argument From Illusion, Research Seminar, University of York
+* November 2015 - On the Argument From Illusion, [Research Seminar](https://www.york.ac.uk/philosophy/news-events/events/2015-events/visitingspeakercraigfrench/), University of York
 
 * September 2015 - The Identity Theory - Sixth Form Philosophy Teacher's Event, Philosophy Faculty, University of Cambridge
 
