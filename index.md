@@ -4,6 +4,8 @@ title: Talks
 subtitle: Recent and Upcoming Talks
 ---
 
+* August 2018 - Austerity and Illusion, London Mind Group, UCL
+
 * February 2018 - What is it *really* like to be a bat? The Forum, LSE
 
 * February 2018 - Naive Realism & Diaphaneity [The Aristotelian Society](https://www.aristoteliansociety.org.uk/the-proceedings/the-2017-18-programme/)
