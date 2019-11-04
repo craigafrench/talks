@@ -4,39 +4,45 @@ title: Talks
 subtitle: Recent and Upcoming Talks
 ---
 
-* November 2019 - TBC - University of Stirling
+* May 2020 - Austerity and Illusion - New Issues in Relationalism, University of Wisconsin-Madison
 
-* May 2019 - Austerity and Illusion, [Workshop on the Philosophy of Perception](https://www.hf.uio.no/ifikk/english/research/news-and-events/events/guest-lectures-seminars/2019/workshop-philosophy-of-perception.html)
+* December 2019 - Is Naive Realism an Anti-Representational Theory of Experience? - University of Nottingham
 
-* May 2019 - Austerity and Illusion, Royal Institute of Philosophy Seminar, University of Southampton
+* November 2019 - Austerity and Illusion - University of Stirling
 
-* August 2018 - Austerity and Illusion, London Mind Group, UCL
+* November 2019 - Austerity and Illusion - Birkbeck, University of London
 
-* February 2018 - What is it *really* like to be a bat? The Forum, LSE
+* May 2019 - Austerity and Illusion - [Workshop on the Philosophy of Perception](https://www.hf.uio.no/ifikk/english/research/news-and-events/events/guest-lectures-seminars/2019/workshop-philosophy-of-perception.html)
 
-* February 2018 - Naive Realism & Diaphaneity [The Aristotelian Society](https://www.aristoteliansociety.org.uk/the-proceedings/the-2017-18-programme/)
+* May 2019 - Austerity and Illusion - Royal Institute of Philosophy Seminar, University of Southampton
 
-* October 2017 - Ordinary and Scientific Conceptions of Perception: Resolving a Conflict Problem, Perception and the Brain, St Hilda's College, Oxford
+* August 2018 - Austerity and Illusion - London Mind Group, UCL
 
-* September 2017 - How Naive Realism Can Explain Both the Particularity and the Generality of Experience, Particularity of Perception Workshop, University of Glasgow
+* February 2018 - What is it *really* like to be a bat? - The Forum, LSE
 
-* May 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon, Royal Institute of Philosophy Seminar, University of Nottingham
+* February 2018 - Naive Realism & Diaphaneity - [The Aristotelian Society](https://www.aristoteliansociety.org.uk/the-proceedings/the-2017-18-programme/)
 
-* April 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon, Workshop of Sense-Data, University of Glasgow
+* October 2017 - Ordinary and Scientific Conceptions of Perception: Resolving a Conflict Problem - Perception and the Brain, St Hilda's College, Oxford
 
-* October 2016 - Naive Realism, Standpoint, and Diaphaneity [BPPA Event on Naive Realism](http://philevents.org/event/show/22938), University of Warwick
+* September 2017 - How Naive Realism Can Explain Both the Particularity and the Generality of Experience - Particularity of Perception Workshop, University of Glasgow
 
-* September 2016 - Austerity and Illusion, [SPIN Workshop](https://spinperceptionnetwork.wordpress.com/2016/08/25/durham-workshop-on-hallucinations-illusions-and-delusions-schedule-and-registration/), University of Durham
+* May 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon - Royal Institute of Philosophy Seminar, University of Nottingham
 
-* June 2016 - Epistemological Disjunctivism and the Representational Commitment, Perception and Evidence Workshop, University of Luxembourg
+* April 2017 - Sense-Data and the Argument from Illusion: Lessons from Snowdon - Workshop of Sense-Data, University of Glasgow
 
-* June 2016 - Relationalism and Structural Features of Experience, [Workshop on Matt Soteriou's *The Mind's Construction*](http://events.manchester.ac.uk/event/event:a18-inkq2lip-d1dwaw), University of Manchester
+* October 2016 - Naive Realism, Standpoint, and Diaphaneity - [BPPA Event on Naive Realism](http://philevents.org/event/show/22938), University of Warwick
 
-* April 2016 - Balint's Syndrome, Object Seeing and Spatial Perception, [Philosophy of Science](http://www.iuc.hr/conference-details.php?id=167), Inter-University Centre, Dubrovnik
+* September 2016 - Austerity and Illusion - [SPIN Workshop](https://spinperceptionnetwork.wordpress.com/2016/08/25/durham-workshop-on-hallucinations-illusions-and-delusions-schedule-and-registration/), University of Durham
 
-* December 2015 - Balint's Syndrome and the Structure of Experience, [Research Seminar](https://www.dur.ac.uk/philosophy/research_seminars_lectures_forthcoming/?itemno=25327), University of Durham
+* June 2016 - Epistemological Disjunctivism and the Representational Commitment - Perception and Evidence Workshop, University of Luxembourg
 
-* November 2015 - On the Argument From Illusion, [Research Seminar](https://www.york.ac.uk/philosophy/news-events/events/2015-events/visitingspeakercraigfrench/), University of York
+* June 2016 - Relationalism and Structural Features of Experience - [Workshop on Matt Soteriou's *The Mind's Construction*](http://events.manchester.ac.uk/event/event:a18-inkq2lip-d1dwaw), University of Manchester
+
+* April 2016 - Balint's Syndrome, Object Seeing and Spatial Perception - [Philosophy of Science](http://www.iuc.hr/conference-details.php?id=167), Inter-University Centre, Dubrovnik
+
+* December 2015 - Balint's Syndrome and the Structure of Experience - [Research Seminar](https://www.dur.ac.uk/philosophy/research_seminars_lectures_forthcoming/?itemno=25327), University of Durham
+
+* November 2015 - On the Argument From Illusion - [Research Seminar](https://www.york.ac.uk/philosophy/news-events/events/2015-events/visitingspeakercraigfrench/), University of York
 
 * September 2015 - The Identity Theory - Sixth Form Philosophy Teacher's Event, Philosophy Faculty, University of Cambridge
 
@@ -50,6 +56,6 @@ subtitle: Recent and Upcoming Talks
 
 * March 2015 - Knowledge - Access Talk for [HE+](http://www.myheplus.com/) at The Kings of Wessex Academy
 
-* March 2015 - Balint's Syndrome and the Structure of Visual Experience, [Rethinking the Senses](http://www.thesenses.ac.uk/), Warwick University
+* March 2015 - Balint's Syndrome and the Structure of Visual Experience - x[Rethinking the Senses](http://www.thesenses.ac.uk/), Warwick University
 
 * February 2015 - The Argument From Illusion - Senior Seminar, University of Glasgow, [Department of Philosophy](http://www.gla.ac.uk/schools/humanities/philosophy/)
