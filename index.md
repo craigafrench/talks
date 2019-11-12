@@ -12,6 +12,8 @@ subtitle: Recent and Upcoming Talks
 
 * November 2019 - Austerity and Illusion - Birkbeck, University of London
 
+* July 2019 - Austerity and Illusion - Universitas 21 Postgraduate Philosophy Conference, University of Nottingham
+
 * May 2019 - Austerity and Illusion - [Workshop on the Philosophy of Perception](https://www.hf.uio.no/ifikk/english/research/news-and-events/events/guest-lectures-seminars/2019/workshop-philosophy-of-perception.html)
 
 * May 2019 - Austerity and Illusion - Royal Institute of Philosophy Seminar, University of Southampton
