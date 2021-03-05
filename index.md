@@ -4,9 +4,11 @@ title: Talks
 subtitle: Recent and Upcoming Talks
 ---
 
-* May 2020 - Austerity and Illusion - New Issues in Relationalism, University of Wisconsin-Madison
+* May 2021 - Austerity and Illusion - New Issues in Relationalism, University of Wisconsin-Madison
 
-* December 2019 - Is Naive Realism an Anti-Representational Theory of Experience? - University of Nottingham
+* April 2021 - Naive Realism and Ways of Perceiving - Online Colloquia in Philosophy of Perception, Yale-NUS College
+
+* December 2019 - Naive Realism and Fundamental Kinds - University of Nottingham
 
 * November 2019 - Austerity and Illusion - University of Stirling
 
