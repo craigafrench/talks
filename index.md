@@ -4,6 +4,9 @@ title: Talks
 subtitle: Recent and Upcoming Talks
 ---
 
+
+* July 2022 - On the Myth of Psychotherapy - Mind, Mental Health, and Epistemic Injustice, University of Nottingham
+
 * May 2021 - Austerity and Illusion - New Issues in Relationalism, University of Wisconsin-Madison
 
 * April 2021 - Naive Realism and Ways of Perceiving - Online Colloquia in Philosophy of Perception, Yale-NUS College
